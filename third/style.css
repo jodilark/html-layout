@@ -1,0 +1,48 @@
+    body {
+        margin: 0px;
+    }
+
+    .row1 {
+        background-color: #D8D8D8;
+        height: 124px;
+    }
+
+    .floater {
+        background-color: #4A90E2;
+        height: 100px;
+        width: 100px;
+        position: absolute;
+        left: 30px;
+        top: 12px;
+
+    }
+
+    .row2 {
+        background-color: #FFFFFF;
+        padding: 58px;
+        font-size: 30px;
+    }
+
+    #fourRowContainer {
+        height: 615px;
+    }
+
+    .row3 {
+        background-color: #4A90E2;
+        height: 25%;
+    }
+
+    .row4 {
+        background-color: #50E3C2;
+        height: 25%;
+    }
+
+    .row5 {
+        background-color: #B8E986;
+        height: 25%;
+    }
+
+    .row6 {
+        background-color: #F8E71C;
+        height: 25%;
+    }
